@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ELViN\\source\\repos\\ConsoleApp14\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8DEA5F-D469-4206-AE18-1952062BA0C5}|ConsoleApp14\\ConsoleApp14.csproj|c:\\users\\elvin\\source\\repos\\consoleapp14\\consoleapp14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A8DEA5F-D469-4206-AE18-1952062BA0C5}|ConsoleApp14\\ConsoleApp14.csproj|solutionrelative:consoleapp14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8DEA5F-D469-4206-AE18-1952062BA0C5}|ConsoleApp14\\ConsoleApp14.csproj|C:\\Users\\ELViN\\source\\repos\\ConsoleApp14\\consoleapp14\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A8DEA5F-D469-4206-AE18-1952062BA0C5}|ConsoleApp14\\ConsoleApp14.csproj|solutionrelative:consoleapp14\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8DEA5F-D469-4206-AE18-1952062BA0C5}|ConsoleApp14\\ConsoleApp14.csproj|C:\\Users\\ELViN\\source\\repos\\ConsoleApp14\\consoleapp14\\fulltimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A8DEA5F-D469-4206-AE18-1952062BA0C5}|ConsoleApp14\\ConsoleApp14.csproj|solutionrelative:consoleapp14\\fulltimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8DEA5F-D469-4206-AE18-1952062BA0C5}|ConsoleApp14\\ConsoleApp14.csproj|C:\\Users\\ELViN\\source\\repos\\ConsoleApp14\\consoleapp14\\parttimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A8DEA5F-D469-4206-AE18-1952062BA0C5}|ConsoleApp14\\ConsoleApp14.csproj|solutionrelative:consoleapp14\\parttimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PartTimeEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\ELViN\\source\\repos\\ConsoleApp14\\ConsoleApp14\\PartTimeEmployee.cs",
+              "RelativeDocumentMoniker": "ConsoleApp14\\PartTimeEmployee.cs",
+              "ToolTip": "C:\\Users\\ELViN\\source\\repos\\ConsoleApp14\\ConsoleApp14\\PartTimeEmployee.cs",
+              "RelativeToolTip": "ConsoleApp14\\PartTimeEmployee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T09:35:24.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FullTimeEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\ELViN\\source\\repos\\ConsoleApp14\\ConsoleApp14\\FullTimeEmployee.cs",
+              "RelativeDocumentMoniker": "ConsoleApp14\\FullTimeEmployee.cs",
+              "ToolTip": "C:\\Users\\ELViN\\source\\repos\\ConsoleApp14\\ConsoleApp14\\FullTimeEmployee.cs",
+              "RelativeToolTip": "ConsoleApp14\\FullTimeEmployee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T09:12:39.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\ELViN\\source\\repos\\ConsoleApp14\\ConsoleApp14\\Employee.cs",
+              "RelativeDocumentMoniker": "ConsoleApp14\\Employee.cs",
+              "ToolTip": "C:\\Users\\ELViN\\source\\repos\\ConsoleApp14\\ConsoleApp14\\Employee.cs",
+              "RelativeToolTip": "ConsoleApp14\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T09:08:47.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ELViN\\source\\repos\\ConsoleApp14\\ConsoleApp14\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp14\\Program.cs",
+              "ToolTip": "C:\\Users\\ELViN\\source\\repos\\ConsoleApp14\\ConsoleApp14\\Program.cs",
+              "RelativeToolTip": "ConsoleApp14\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T08:38:30.907Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
